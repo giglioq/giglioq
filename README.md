@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giglioq
-- 👀 I’m interested in physics, UX, machine learning
-- 🌱 I’m currently learning Distill blogs with Rmarkdown
+- 👀 I’m interested in engineering, buddhism
+- 🌱 I’m currently learning Gatsby Blogs and emacs
 - 💞️ I’m looking to collaborate on something fun
 - 📫 How to reach me qdog@giglio.us
 
